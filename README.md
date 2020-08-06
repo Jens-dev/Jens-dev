@@ -1,4 +1,4 @@
-### Hi there, I'm Jesn - [website] 👋
+### Hi there, I'm Jens - [website] 👋
 
 ## I'm a FULL-STACK Developer, Freelancer and Cyclist!
 - 🔭 I’m currently working on a CRM Systems dedicated to the school systems!
