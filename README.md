@@ -6,6 +6,10 @@
 - 👥 I’m looking to collaborate with other developers and customers
 - 🥅 2021 Goals: Contribute more to Open Source projects and get my App done 😉
 
+### My GitHub Statistics
+
+![Jens's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jens-dev&show_icons=true&theme=radical)
+
 ### Connect with me:
 
 [<img align="left" alt="albrecht-systems.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
