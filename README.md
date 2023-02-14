@@ -6,6 +6,8 @@
 - 👥 I’m looking to collaborate with other developers and customers
 - 🥅 2021 Goals: Contribute more to Open Source projects and get my App done 😉
 
+<a href="https://app.daily.dev/Jens-Dev"><img src="https://api.daily.dev/devcards/4b37fc73a33e4b1a894a9a0598d19ca7.png?r=ojf" width="400" alt="Jens's Dev Card"/></a>
+
 ### Connect with me:
 
 [<img align="left" alt="albrecht-systems.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
