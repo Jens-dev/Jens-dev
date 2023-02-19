@@ -1,12 +1,19 @@
 ### Hi there, I'm Jens - [website] 👋
 
-## I'm a FULL-STACK Developer, Freelancer and Cyclist!
-- 👨‍💻 I’m currently working on a CRM Systems dedicated to the school systems!
-- 🌱 I’m currently updating my JS and node skills 🤣
-- 👥 I’m looking to collaborate with other developers and customers
-- 🥅 2021 Goals: Contribute more to Open Source projects and get my App done 😉
-
-<a href="https://app.daily.dev/Jens-Dev"><img src="https://api.daily.dev/devcards/4b37fc73a33e4b1a894a9a0598d19ca7.png?r=ojf" width="400" alt="Jens's Dev Card"/></a>
+<table border="0">
+ <tr>
+    <td>
+      <h2>I'm a FULL-STACK Developer, Freelancer and Cyclist!</h2>
+      <ul>
+        <li>👨‍💻 I’m currently working on a CRM Systems dedicated to the school systems!</li>
+        <li>🌱 I’m currently updating my JS and node skills 🤣</li>
+        <li>👥 I’m looking to collaborate with other developers and customers</li>
+        <li>🥅 2023 Goals: Contribute more to Open Source projects and get my App done 😉</li>
+      </ul>
+   </td>
+    <td><a href="https://app.daily.dev/Jens-Dev"><img src="https://api.daily.dev/devcards/4b37fc73a33e4b1a894a9a0598d19ca7.png?r=ojf" width="400" alt="Jens's Dev Card"/></a></td>
+ </tr>
+</table>
 
 ### Connect with me:
 
